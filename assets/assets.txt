@@ -1,6 +1,7 @@
 d:assets:0:application/unknown
 i:arrow.png:274:image/png
 i:badlogic.jpg:68465:image/jpeg
+i:menuBackground.png:25018:image/png
 d:Playing Cards:0:application/unknown
 i:Playing Cards/back.png:238:image/png
 i:Playing Cards/c2.png:393:image/png

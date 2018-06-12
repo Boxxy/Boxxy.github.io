@@ -375,11 +375,11 @@ function html(){
     }
     var strongName;
     try {
-      unflattenKeylistIntoAnswers(['gecko1_8'], '989730A6D4019A0A642C637751B3895D');
-      unflattenKeylistIntoAnswers(['ie10'], '989730A6D4019A0A642C637751B3895D' + ':1');
-      unflattenKeylistIntoAnswers(['ie8'], '989730A6D4019A0A642C637751B3895D' + ':2');
-      unflattenKeylistIntoAnswers(['ie9'], '989730A6D4019A0A642C637751B3895D' + ':3');
-      unflattenKeylistIntoAnswers(['safari'], '989730A6D4019A0A642C637751B3895D' + ':4');
+      unflattenKeylistIntoAnswers(['gecko1_8'], 'B6E10AB89FB039CE19E84E33D15E01E4');
+      unflattenKeylistIntoAnswers(['ie10'], 'B6E10AB89FB039CE19E84E33D15E01E4' + ':1');
+      unflattenKeylistIntoAnswers(['ie8'], 'B6E10AB89FB039CE19E84E33D15E01E4' + ':2');
+      unflattenKeylistIntoAnswers(['ie9'], 'B6E10AB89FB039CE19E84E33D15E01E4' + ':3');
+      unflattenKeylistIntoAnswers(['safari'], 'B6E10AB89FB039CE19E84E33D15E01E4' + ':4');
       strongName = answers[computePropValue('user.agent')];
       var idx = strongName.indexOf(':');
       if (idx != -1) {
