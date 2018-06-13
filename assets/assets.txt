@@ -1,7 +1,7 @@
 d:assets:0:application/unknown
-i:arrow.png:274:image/png
-i:badlogic.jpg:68465:image/jpeg
-i:menuBackground.png:25018:image/png
+i:arrow.png:263:image/png
+i:gameBackground.png:6622:image/png
+i:menuBackground.png:26004:image/png
 d:Playing Cards:0:application/unknown
 i:Playing Cards/back.png:238:image/png
 i:Playing Cards/c2.png:393:image/png
@@ -56,6 +56,19 @@ i:Playing Cards/sj.png:966:image/png
 i:Playing Cards/sk.png:961:image/png
 i:Playing Cards/sq.png:1040:image/png
 i:Playing Cards/st.png:503:image/png
+d:sgx:0:application/unknown
+t:sgx/PlayFont.txt:4442:text/plain
+i:sgx/preview.png:659997:image/png
+t:sgx/QuestrialFont.txt:4402:text/plain
+b:sgx/README.md:822:application/unknown
+d:sgx/skin:0:application/unknown
+t:sgx/skin/font-export.fnt:9839:application/unknown
+t:sgx/skin/font-medium-export.fnt:9830:application/unknown
+t:sgx/skin/font-small-export.fnt:9793:application/unknown
+t:sgx/skin/font-title-export.fnt:9978:application/unknown
+t:sgx/skin/sgx-ui.atlas:12617:application/unknown
+t:sgx/skin/sgx-ui.json:10395:application/unknown
+i:sgx/skin/sgx-ui.png:279689:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
 t:com/badlogic/gdx/graphics/g3d/shaders/default.fragment.glsl:5350:application/unknown
