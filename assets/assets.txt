@@ -67,7 +67,7 @@ t:sgx/skin/font-medium-export.fnt:9830:application/unknown
 t:sgx/skin/font-small-export.fnt:9793:application/unknown
 t:sgx/skin/font-title-export.fnt:9978:application/unknown
 t:sgx/skin/sgx-ui.atlas:12617:application/unknown
-t:sgx/skin/sgx-ui.json:10395:application/unknown
+t:sgx/skin/sgx-ui.json:10459:application/unknown
 i:sgx/skin/sgx-ui.png:279689:image/png
 t:com/badlogic/gdx/graphics/g3d/particles/particles.fragment.glsl:859:application/unknown
 t:com/badlogic/gdx/graphics/g3d/particles/particles.vertex.glsl:2996:application/unknown
